@@ -1,4 +1,4 @@
-#To-Do List Web App (Vanilla JavaScript)
+# To-Do List Web App (Vanilla JavaScript)
 
 A modern, interactive, and responsive To-Do List Web Application built using HTML, CSS, and Vanilla JavaScript.
 This enhanced version includes animations, dark mode, filters, editable tasks, and delete confirmation modal — all without any frameworks.
