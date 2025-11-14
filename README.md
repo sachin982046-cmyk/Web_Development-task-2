@@ -5,7 +5,7 @@ This enhanced version includes animations, dark mode, filters, editable tasks, a
 
 
 
-#Features
+# Features
    Add Tasks
 
 Quickly add new tasks using the input bar or by pressing Enter.
