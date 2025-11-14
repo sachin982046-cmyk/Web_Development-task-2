@@ -33,6 +33,7 @@ Accessibility Friendly
 
 
 
+
 #Technologies Used
 
 HTML5
@@ -41,6 +42,7 @@ JavaScript (ES6+)
 No external libraries or frameworks
 Optional: live-server for local development
 Includes ARIA labels, keyboard support, and screen-reader compatibility.
+
 
 
 
@@ -65,7 +67,7 @@ Switch between All, Pending, and Completed tasks
 
 
 
- Future Enhancements
+Future Enhancements
  
 If you plan to improve the project later, here are ideas:
 Save tasks using localStorage
